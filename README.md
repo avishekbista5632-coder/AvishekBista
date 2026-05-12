@@ -2,7 +2,7 @@
 <h3 align="center">Cisco Networking | Network Automation | Linux | Python</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/avishekbista5632-coder">
     <img src="https://readme-typing-svg.demolab.com/?lines=Network+Engineer;Cisco+Enthusiast;Python+Automation;Linux+Learner;Always+Learning&center=true&width=500&height=45">
   </a>
 </p>
@@ -31,11 +31,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avishekbista5632-coder&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishekbista5632-coder&theme=tokyonight" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avishekbista5632-coder&theme=tokyo-night" />
 </p>
 
 ---
@@ -51,15 +51,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=avishekbista5632-coder&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
@@ -87,17 +79,15 @@
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/avishekbista5632-coder">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=avishekbista5632-coder&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
